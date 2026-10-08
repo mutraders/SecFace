@@ -1,0 +1,16 @@
+{
+  "appName": "SecFace",
+  "latestVersion": "1.1.9",
+  "minRequiredVersion": "1.1.9",
+  "isMandatory": true,
+  "releaseDate": "2026-10-08",
+  "downloadUrl": "https://github.com/mutraders/SecFace/releases/download/v1.1.9/SecFace-Setup-v1.1.9.exe",
+  "sha256": "79D6466CFDCAC1AED8B2B97FA4F8673FF09A654493FF9915A5397B912D43D3D7",
+  "title": "Mandatory Security & Core Update",
+  "releaseNotes": [
+    "Enhanced biometric anti-spoofing engine (blocks 2D mobile screen attacks).",
+    "Windows Lock Screen authentication speed and stability improvements.",
+    "Integrated Windows Hello PIN & Account Password smart guidance.",
+    "Mandatory update enforcement for all SecFace devices."
+  ]
+}
